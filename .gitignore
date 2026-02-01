@@ -1,0 +1,29 @@
+# System / container junk
+.bash_history
+.bashrc
+.cache/
+.config/
+.local/
+.profile
+.viminfo
+.wget-hsts
+.zshrc
+.python_history
+
+# Node / Python
+nodejs/
+.venv/
+__pycache__/
+*.pyc
+
+# Databases & runtime
+.mongodb/
+runs/
+
+# ClawdBot runtime / binaries
+clawd/
+.clawdbot/
+.clawdbot-bin/
+
+# Secrets
+config.json
